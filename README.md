@@ -1,6 +1,6 @@
 <div align="center">
   <img margin="auto" width="50%" height="auto"
-       src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/31460c94006031.5e737d384a2c7.gif"/>
+       src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/31460c94006031.5e737d384a2c7.gif"/>
 </div> 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Chen Jin</h3>
   
