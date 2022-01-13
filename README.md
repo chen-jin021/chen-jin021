@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I’m currently working on a full stack project at thedownballot
-- 🌱 I’m currently learning about distributed systems
+- 🔭 I’m currently working on a full stack project at [thedownballot](https://www.thedownballot.org/about) which is a platform committed to providing simplified coverage for the down-ballot races that will take place in the next four years leading up to the next presidential race in 2024.
+- 🌱 I’m currently learning about building and deploying apps using microservices built with Node, React, Docker and Kubernetes
 - 👯 I’m looking to collaborate on a website/project, 2022 hackathon, etc.
-- 💬 Ask me about MERN or any tech-related stuff!
+- 💬 Ask me about full stack web development or any tech-related stuff!
 - 📫 How to reach me: chen.jin@nyu.edu or connect with me on LinkedIn: [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I like coding.
