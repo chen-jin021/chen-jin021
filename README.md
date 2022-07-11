@@ -2,7 +2,7 @@
   <img margin="auto" width="50%" height="auto"
        src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/31460c94006031.5e737d384a2c7.gif"/>
 </div> 
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I am Chen Jin</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">, I am Chen Jin</h3>
   
 <!--
 **chen-jin021/chen-jin021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
