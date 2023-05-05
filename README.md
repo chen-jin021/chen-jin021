@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I’m currently working on self-implementing an Operating System with software-level caching I/O [Done], self-implemented `malloc` and `free` [Done] of which simulates system malloc and free along with security detections of diabolical attacks and undefined behaviors of `read` and `write`, concurrent reverse index search engine [Done] and distributed KV storage system. Many more exciting functionalities will be supported and this is a super exciting project that I am currently building.
+- 🔭 I’m currently working on self-implementing an Operating System with software-level caching I/O [Done], self-implemented `malloc` and `free` [Done] of which simulates system malloc and free along with security detections of diabolical attacks and undefined behaviors of `read` and `write`, concurrent reverse index search engine [Done] and concurrent KV storage system. Many more exciting functionalities will be supported and this is a super exciting project that I am currently building.
 - 🌱 I’m currently learning about building and deploying apps using microservices built with Node, React, Docker and Kubernetes
 - 👯 I’m looking to collaborate on fun projects, 2022 hackathon, etc.
 - 💬 Ask me about full stack web development (MERN) or systems-level programming!
