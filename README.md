@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I’m currently working on self-implementing an Operating System with software-level caching I/O [Done], self-implemented `malloc` and `free` [Done] of which simulates system malloc and free along with security detections of diabolical attacks and undefined behaviors of `read` and `write`, concurrent reverse index search engine [Done] and concurrent KV storage system [Done]. Many more exciting functionalities will be supported and this is a super exciting project that I am currently building.
+- 🔭 I recently built a self-implementing Operating System with software-level caching I/O, self-implemented `malloc` and `free` of which simulates system malloc and free along with security detections of diabolical attacks and undefined behaviors of `read` and `write`, concurrent reverse index search engine and concurrent KV storage system. 
 - 🌱 I’m currently learning about building and deploying apps using microservices built with Node, React, Docker and Kubernetes
-- 👯 I’m looking to collaborate on fun projects, 2022 hackathon, etc.
-- 💬 Ask me about full stack web development (MERN) or systems-level programming!
+- 👯 I’m looking to collaborate on fun projects, hackathon, etc.
 - 📫 How to reach me: connect with me on LinkedIn: [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I like coding.
 
 --- 
 
