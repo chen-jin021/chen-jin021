@@ -46,12 +46,13 @@ Here are some ideas to get you started:
 <br/>
 
 --- 
-
+<!--
 ### My GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=chen-jin021&&show_icons=true&title_color=ffffff&icon_color=ffba2c&text_color=daf7dc&bg_color=191919">
 
 ---
+-->
 <div>
   <span>image by Chermayeff & Geismar & Haviv</span>
 </div> 
